@@ -9,7 +9,7 @@ Now that you're familiar with Bayes' theorem and some initial concepts of Bayesi
 
 You will be able to:
 
-* Discuss how to implement classifiers using Bayes theorem
+- Discuss how to implement classifiers using Bayes theorem
 
 ## Naive Bayes
 
